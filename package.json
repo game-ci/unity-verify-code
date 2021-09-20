@@ -1,0 +1,20 @@
+{
+  "name": "unity-verify-code",
+  "version": "0.0.1",
+  "description": "An email parser to get 6 digit verfication code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unity",
+    "verify",
+    "code"
+  ],
+  "author": "Jen-Chieh Shen",
+  "license": "ISC",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.3.1"
+  }
+}
