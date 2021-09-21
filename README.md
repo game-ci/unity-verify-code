@@ -6,13 +6,14 @@ An email parser to get 6 digit verification code.
 
 ```
 usage : unity-verify-code [--port] [--tls]
-                          EMAIL [EMAIL ...] PASSWORD [PASSWORD ...] HOST [HOST ...]
+                          EMAIL [EMAIL ...] PASSWORD [PASSWORD ...] HOST [HOST ...]                          SAVE_PATH [SAVE_PATH ...]
 Unity License Activate : An email parser to get 6 digit verification code.
 
 positional arguments:
   EMAIL          Username or Email you use to register for Unity account
   PASSWORD       Password to login Unity account
   HOST           Hostname or IP address of the IMAP server. Default: 'localhost'
+  SAVE_PATH      File path to save the 6 digit code.
 
 optional arguments:  port           Port number of the IMAP server. Default: 143
   tls            boolean - Perform implicit TLS connection? Default: false
