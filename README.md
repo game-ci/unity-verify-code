@@ -17,7 +17,6 @@ Unity License Activate : An email parser to get 6 digit verification code.
 positional arguments:
   EMAIL          Username or Email you use to register for Unity account
   PASSWORD       Password to login Unity account
-  HOST           Hostname or IP address of the IMAP server. Default: 'localhost'
   SAVE_PATH      File path to save the 6 digit code.
 
 optional arguments:
