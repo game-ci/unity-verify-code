@@ -1,6 +1,6 @@
 {
   "name": "unity-verify-code",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An email parser to get 6 digit verfication code.",
   "main": "./lib/parse.js",
   "homepage": "https://github.com/jcs090218/unity-verify-code#readme",
