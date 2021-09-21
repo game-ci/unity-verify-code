@@ -9,7 +9,9 @@ An email parser to get 6 digit verification code.
 
 ```
 usage : unity-verify-code [--port] [--tls]
-                          EMAIL [EMAIL ...] PASSWORD [PASSWORD ...] HOST [HOST ...]                          SAVE_PATH [SAVE_PATH ...]
+                          EMAIL [EMAIL ...] PASSWORD [PASSWORD ...] HOST [HOST ...]
+                          SAVE_PATH [SAVE_PATH ...]
+
 Unity License Activate : An email parser to get 6 digit verification code.
 
 positional arguments:
