@@ -21,8 +21,8 @@ positional arguments:
   SAVE_PATH      File path to save the 6 digit code.
 
 optional arguments:
-  port           Port number of the IMAP server. Default: 143
-  tls            boolean - Perform implicit TLS connection? Default: false
+  --port         Port number of the IMAP server. Default: 143
+  --tls          boolean - Perform implicit TLS connection? Default: false
 ```
 
 ## 🔗 References
