@@ -5,7 +5,17 @@
 
 An email parser to get 6 digit verification code.
 
-## 🔨 Usage
+This tool is design to use with [unity-license-activate](https://github.com/jcs090218/unity-license-activate)
+so you can feed verification code to get pass Unity's TFA.
+
+## 💾 Prerequisite
+
+This application uses IMAP to parse your verfication email from Unity, so make
+sure your email's IMAP service is enabled!
+
+## 🔨 How to use?
+
+## 📇 Command Line Arguments
 
 ```
 usage : unity-verify-code [--port] [--tls]
