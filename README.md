@@ -19,6 +19,8 @@ sure your email's IMAP service is enabled!
 
 * `Gmail`, see [How Can i receive incoming mails(gmail) to my application server using imap (nodejs)](https://stackoverflow.com/questions/62404008/how-can-i-receive-incoming-mailsgmail-to-my-application-server-using-imap-nod)
 
+*P.S. All email services should have the similar steps!*
+
 ## 🔨 How to use?
 
 You can use this tools with any CI/CD system as long as you have the [Node](https://nodejs.org/en/)
