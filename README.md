@@ -55,7 +55,7 @@ See the full example [here](https://github.com/jcs090218/JCSUnity/blob/master/.g
 
 ## 📇 Command Line Arguments
 
-```
+```console
 usage : unity-verify-code [--port] [--tls]
                           EMAIL [EMAIL ...] PASSWORD [PASSWORD ...] HOST [HOST ...]
                           SAVE_PATH [SAVE_PATH ...]
