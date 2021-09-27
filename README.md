@@ -1,8 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/release/jcs090218/unity-verify-code.svg?logo=github)](https://github.com/jcs090218/unity-verify-code/releases/latest)
 [![npm](https://img.shields.io/npm/v/unity-verify-code?logo=npm&color=green)](https://www.npmjs.com/package/unity-verify-code)
-[![dependencies Status](https://status.david-dm.org/gh/jcs090218/unity-verify-code.svg)](https://david-dm.org/jcs090218/unity-verify-code)
 
 # unity-verify-code
+
+[![dependencies Status](https://status.david-dm.org/gh/jcs090218/unity-verify-code.svg)](https://david-dm.org/jcs090218/unity-verify-code)
 
 An email parser to get 6 digit verification code.
 
