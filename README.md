@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![npm](https://img.shields.io/npm/v/unity-verify-code?logo=npm&color=green)](https://www.npmjs.com/package/unity-verify-code)
 [![dependencies Status](https://status.david-dm.org/gh/jcs090218/unity-verify-code.svg)](https://david-dm.org/jcs090218/unity-verify-code)
 
 # unity-verify-code
