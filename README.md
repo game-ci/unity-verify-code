@@ -25,6 +25,15 @@ sure your email's IMAP service is enabled!
 
 *P.S. All email services should have the similar steps!*
 
+### Supported mail services
+
+| Name    | Done | Value                   |
+|---------|------|-------------------------|
+| Gmail   | ✔    | `imap.gmail.com`        |
+| Hotmail | ✔    | `imap-mail.outlook.com` |
+| Outlook | ✔    | `imap-mail.outlook.com` |
+| Yahoo   | ✔    | `imap.mail.yahoo.com`   |
+
 ## 🔨 How to use?
 
 You can use this tools with any CI/CD system as long as you have the [Node](https://nodejs.org/en/)
