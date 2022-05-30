@@ -25,7 +25,7 @@ sure your email's IMAP service is enabled!
 
 *P.S. All email services should have the similar steps!*
 
-### Supported mail services
+### 📬 Supported mail services
 
 | Name    | Done | Value                   |
 |---------|------|-------------------------|
