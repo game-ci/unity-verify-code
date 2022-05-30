@@ -18,7 +18,7 @@ so you can feed verification code to get pass Unity's TFA.
 
 ## 💾 Prerequisite
 
-This application uses IMAP to parse your verfication email from Unity, so make
+This application uses IMAP to parse your verification email from Unity, so make
 sure your email's IMAP service is enabled!
 
 * `Gmail`, see [How Can i receive incoming mails(gmail) to my application server using imap (nodejs)](https://stackoverflow.com/questions/62404008/how-can-i-receive-incoming-mailsgmail-to-my-application-server-using-imap-nod)
@@ -36,8 +36,8 @@ sure your email's IMAP service is enabled!
 
 ## 🔨 How to use?
 
-You can use this tools with any CI/CD system as long as you have the [Node](https://nodejs.org/en/)
-environment set up! Here is an example for GitHub Actions.
+You can use these tools with any CI/CD system as long as you have the [Node](https://nodejs.org/en/)
+environment set up! Here is an example of GitHub Actions.
 
 ```yml
 jobs:
