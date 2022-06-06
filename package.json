@@ -1,15 +1,15 @@
 {
   "name": "unity-verify-code",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "An email parser to get 6 digit verfication code.",
   "main": "./lib/parse.js",
-  "homepage": "https://github.com/jcs090218/unity-verify-code#readme",
+  "homepage": "https://github.com/game-ci/unity-verify-code#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcs090218/unity-verify-code.git"
+    "url": "git+https://github.com/game-ci/unity-verify-code.git"
   },
   "bugs": {
-    "url": "https://github.com/jcs090218/unity-verify-code/issues"
+    "url": "https://github.com/game-ci/unity-verify-code/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
