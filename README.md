@@ -33,6 +33,8 @@ sure your email's IMAP service is enabled!
 | Hotmail | ✔    | `imap-mail.outlook.com` |
 | Outlook | ✔    | `imap-mail.outlook.com` |
 | Yahoo   | ✔    | `imap.mail.yahoo.com`   |
+| Foxmail | ✔    | `imap.qq.com`           |
+| QQ      | ✔    | `imap.qq.com`           |
 
 ## 🔨 How to use?
 
