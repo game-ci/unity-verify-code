@@ -87,3 +87,9 @@ optional arguments:
   --port         Port number of the IMAP server. Default: 143
   --tls          boolean - Perform implicit TLS connection? Default: false
 ```
+
+## ⚜️ Licence
+
+This repository is [MIT](./LICENSE) licensed.
+
+This includes all contributions from the community.
